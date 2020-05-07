@@ -32,7 +32,7 @@ Header.defaultProps = {
 }
 
 Header.propTypes = {
-  branding: PropTypes.bool.isRequired
+  branding: PropTypes.string.isRequired
 }
 
 
